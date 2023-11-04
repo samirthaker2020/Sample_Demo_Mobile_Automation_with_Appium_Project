@@ -1,17 +1,17 @@
 # Hi 👋, I'm Samir Thaker. (Software Test Engineer)
 # Getting Started
-### This Project is demo of Selenium-Java with Appiu, for mobile automation.
+### This Project is a demo of Selenium-Java with Appium, for mobile automation.
 
 # Prerequisites
 1. Install Node Js version 14 or later. (https://nodejs.org/en/download/)<br>
 2. Install IntelliJ IDE <br>
 3. Install Appium, & Appium inspector tool
-4. Install Android virtual device (Android Studio)
+4. Install an Android virtual device (Android Studio)
 
 # Installation
 1. Clone the repo- https://github.com/samirthaker2020/Sample_Demo_Mobile_Automation_with_Appium_Project.git
 2. Open the project in IntelliJ
-3. Run Appium server and AVD 
+3. Run the Appium server and AVD 
 4. Run the test
 
 
